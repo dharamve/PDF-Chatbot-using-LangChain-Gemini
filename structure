@@ -1,0 +1,17 @@
+LangChain-PDF-Chatbot/
+│
+├── data/
+│   └── sample.pdf
+│
+├── chroma_db/
+│
+├── src/
+│   ├── load_pdf.py
+│   ├── create_embeddings.py
+│   ├── chatbot.py
+│   └── main.py
+│
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
